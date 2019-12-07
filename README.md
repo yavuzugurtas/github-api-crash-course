@@ -1,8 +1,10 @@
 Week 2 Project
 
-Section -4
-
-Paginition 
+Section -5
+ 
+ // Could not manage to call private repo :(
+ 
+ Authorization by searching through private issues
 
 live link 
 
